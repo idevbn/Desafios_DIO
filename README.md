@@ -5,6 +5,12 @@
 <br>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/60206607/137634539-cf27c7b4-9402-4705-989a-54d8340c0371.png" width="400px" />
+</div>
+
+<br>
+
+<div align="center">
   <h3><a href="#about">Sobre</a></h3>
 </div>
 
